@@ -24,9 +24,9 @@ I'm Mahmoud Amin, a passionate iOS Engineer with a deep interest in mobile app d
 
 ## 📫 How to Reach Me
 
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-Mah.Amin-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/7933113) </br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mah.Amin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mahmoud-amin-03325a148) </br>
-[![Gmail Badge](https://img.shields.io/badge/Email-Mah.Amin-red?style=social&logo=gmail)](mailto:mahmoudamin373@gmail.com) </br>
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-Mahmoud.amin-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/7933113) </br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mahmoud.amin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mahmoud-amin-03325a148) </br>
+[![Gmail Badge](https://img.shields.io/badge/Email-Mahmoud.amin-red?style=social&logo=gmail)](mailto:mahmoudamin373@gmail.com) </br>
 
 ## ⚡ Fun Fact
 
